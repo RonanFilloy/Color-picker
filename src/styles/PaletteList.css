@@ -1,0 +1,15 @@
+.Palettes {
+    box-sizing: border-box;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 30%);
+    grid-gap: 5%;
+    @media(max-width: 991.98px) {
+        grid-template-columns: repeat(2, 50%);
+        grid-gap: 2%;
+    }
+    @media(max-width: 575.98px) {
+        grid-template-columns: repeat(1, 100%);
+        grid-gap: 1%;
+    }
+}

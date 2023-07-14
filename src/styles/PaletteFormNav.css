@@ -1,0 +1,22 @@
+.Form-nav {
+    display: flex;
+}
+
+.nav-buttons {
+    margin-right: 1rem;
+    @media (max-width: 575.98px) {
+        margin-right: 0.5rem;
+    }
+}
+
+.nav-buttons a {
+    text-decoration: none;
+}
+
+.nav-buttons button {
+    margin: 0 0.5rem;
+    @media (max-width: 575.98px) {
+        margin: 0 0.2rem;
+        padding: 0.3rem;
+    }
+}
