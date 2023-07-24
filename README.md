@@ -2,4 +2,4 @@ The idea of this project is to be able to create color palettes which will copy 
 
 The app was built using ReactJs, Material UI, Color picker library, among others and was one of my first experiences using hooks and transitions, as well as react memo for performance reasons. I chose to use local storage so that any user can give it a try without needing to download/install anything outside of what is in the repository. The app is also fully responsive and designed to be used on any device, though personally, I find copying things to clipboard on my computer much more useful.
 
-Once the repository is downloaded you can use the comand nm install to install the dependencies, and npm start to start the app
+Once the repository is downloaded you can use the comand "npm install" to install the dependencies, and "npm start" to start the app
