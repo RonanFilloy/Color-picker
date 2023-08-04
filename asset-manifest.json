@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Color-picker.github.io/static/css/main.d688802f.css",
+    "main.css": "/Color-picker.github.io/static/css/main.76276bdc.css",
     "main.js": "/Color-picker.github.io/static/js/main.f1a4c27a.js",
     "static/js/787.0fb6e0a2.chunk.js": "/Color-picker.github.io/static/js/787.0fb6e0a2.chunk.js",
     "static/media/rs.svg": "/Color-picker.github.io/static/media/rs.dc155455e86e12200cb5.svg",
@@ -271,12 +271,12 @@
     "static/media/de.svg": "/Color-picker.github.io/static/media/de.6435bf24d148ca7248e7.svg",
     "static/media/bd.svg": "/Color-picker.github.io/static/media/bd.0ad8c443ef4d47ea0497.svg",
     "static/media/id.svg": "/Color-picker.github.io/static/media/id.f624e2c8444a7794b357.svg",
-    "main.d688802f.css.map": "/Color-picker.github.io/static/css/main.d688802f.css.map",
+    "main.76276bdc.css.map": "/Color-picker.github.io/static/css/main.76276bdc.css.map",
     "main.f1a4c27a.js.map": "/Color-picker.github.io/static/js/main.f1a4c27a.js.map",
     "787.0fb6e0a2.chunk.js.map": "/Color-picker.github.io/static/js/787.0fb6e0a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d688802f.css",
+    "static/css/main.76276bdc.css",
     "static/js/main.f1a4c27a.js"
   ]
 }
